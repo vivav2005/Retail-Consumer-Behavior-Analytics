@@ -20,7 +20,6 @@ The workflow demonstrates a complete analytics pipeline from data cleaning to bu
 
 - Python
 - Pandas
-- PostgreSQL
 - SQL
 - Power BI
 
